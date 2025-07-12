@@ -13,13 +13,17 @@ https://github.com/user-attachments/assets/be221096-af61-41a2-a7dc-cf6e47ee3cf9
 ```
 git clone https://github.com/madanokr001/SayKimChi.git
 ```
+```
 cd SayKimChi
 ```
 ```
 ls
 ```
+```
 python saykimchi.py
 ```
+# About 🤑
+**We greatly appreciate your feedback and suggestions. Please feel free to share any thoughts you may have; your input is invaluable to us!**
 
 
 
