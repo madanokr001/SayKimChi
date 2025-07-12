@@ -1,2 +1,2 @@
 # SayKimChi 🔥
-**SayKimChi is a lightweight and automated tool that leverages ngrok port forwarding to collect a visitor’s IP address and capture a snapshot from their webcam**
+**SayKimChi is a tool that uses ngrok port forwarding to create a fake website that collects the visitor’s IP address and accesses their phone camera**
