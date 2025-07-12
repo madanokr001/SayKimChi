@@ -9,7 +9,7 @@
 # Tutorial ❓
 https://github.com/user-attachments/assets/be221096-af61-41a2-a7dc-cf6e47ee3cf9
 
-# Installing Termux/Kali Linux 
+# Installing Termux/Kali Linux 🔥
 ```
 git clone https://github.com/madanokr001/SayKimChi.git
 ```
