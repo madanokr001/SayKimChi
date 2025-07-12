@@ -15,7 +15,7 @@ def banner():
     [S][A][Y][K][I][M][C][H][I][!][!]
     [+] Author   : cybermad
     [+] Version  : 1.0
-    [+] Github   : https://github.com/madanokr001   
+    [*] Github   : https://github.com/madanokr001   
     [*] Telegram : https://t.me/cybermads   
 """)
 
